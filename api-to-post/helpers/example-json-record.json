@@ -1,0 +1,119 @@
+{
+        "mappedURL": "https://www.yachtworld.co.uk/yacht/2004-sunseeker-portofino-8565417/",
+        "tags": [
+          "exchangesite.adobe.saint",
+          "exchangesite.yw",
+          "imported.yachtcloser",
+          "portal.yachtworld"
+        ],
+        "date": {
+          "created": "2022-10-21T17:29:39Z",
+          "indexed": "2022-10-21T22:52:48.147Z"
+        },
+        "make": "Sunseeker",
+        "model": "Portofino",
+        "condition": "used",
+        "boat": {
+          "boatType": "power",
+          "class": "power-sportcruiser",
+          "specifications": {
+            "dimensions": {
+              "lengths": {
+                "nominal": {
+                  "ft": 46,
+                  "m": 14.02
+                }
+              }
+            }
+          }
+        },
+        "year": 2004,
+        "price": {
+          "type": {
+            "amount": {
+              "AUD": 371287.13,
+              "CAD": 323580.09,
+              "CHF": 239546.3,
+              "CZK": 5878318.8,
+              "DKK": 1793346.68,
+              "EUR": 240395.93,
+              "GBP": 210942.65,
+              "HUF": 97008892.48,
+              "INR": 19675356.62,
+              "NOK": 2458714.09,
+              "NZD": 404755.88,
+              "PLN": 1129284.22,
+              "RUB": 14880029.76,
+              "SEK": 2641920.68,
+              "THB": 8930232.56,
+              "USD": 240000
+            }
+          }
+        },
+        "owner": {
+          "logos": {
+            "default": "https://images.boatsgroup.com/images/1/upload/Miami+Yachting.jpg",
+            "BTOLEnhanced": "",
+            "YWEnhanced": "",
+            "ADBEnhanced": "",
+            "BS24Enhanced": "",
+            "BS24UKEnhanced": "",
+            "BoatsandoutboardsEnhanced": "",
+            "BotentekoopEnhanced": "",
+            "BotenEnhanced": "",
+            "BotenbankEnhanced": "",
+            "Boot24Enhanced": "",
+            "CDBEnhanced": ""
+          },
+          "id": 465287,
+          "name": "Miami Yachting"
+        },
+        "media": [
+          {
+            "date": {
+              "created": "2022-10-21T17:29:39Z",
+              "modified": "2022-10-21T17:30:06Z",
+              "externalModified": "2022-10-21T14:49:26Z"
+            },
+            "sortOrder": 0,
+            "mediaType": "image",
+            "externalUrl": "https://yc-prod-imagestore.s3.amazonaws.com/original/com.yachtcloser.server.om.VesselImage/00/03/32/83/0003328302.jpg",
+            "status": "PROCESSED",
+            "languageCode": "en",
+            "autoCreate": false,
+            "autoDescription": false,
+            "height": 683,
+            "width": 1024,
+            "format": 0,
+            "url": "/1/54/17/8565417_0_211020221030_0.jpg",
+            "original": {
+              "height": 683,
+              "width": 1024,
+              "url": "/1/54/17/8565417_0_211020221030_0.jpg"
+            }
+          }
+        ],
+        "id": 8565417,
+        "aliases": {
+          "imt": 8565417,
+          "yachtworld": "4019039"
+        },
+        "mediaCount": {
+          "image": 13
+        },
+        "status": "active",
+        "isCurrentModel": null,
+        "isOemModel": false,
+        "location": {
+          "city": "Miami",
+          "normalizedCity": "Miami",
+          "countrySubDivisionCode": "FL",
+          "isoSubDivisionCode": "US-FL",
+          "countryCode": "US"
+        },
+        "salesRep": {
+          "certs": [
+            
+          ]
+        }
+      },
